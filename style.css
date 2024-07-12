@@ -136,7 +136,7 @@ body {
 }
 
 .URL li {
-    padding-left: 70px;
+    padding-left: 40px;
     display: flex;
     list-style: none;
     justify-content: space-between;
